@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#E43F3F</color>
+    <color name="colorPrimaryDark">#CC1D1D</color>
+    <color name="colorAccent">#FFFFFF</color>
+
+    <color name="colorBtnSuccess">#00D981</color>
+    <color name="colorNone">#7E7E7E</color>
+
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+
+    <color name="colotButtonAlt">#E46265</color>
+
+    <color name="black_overlay">#66000000</color>
+    <!-- transform -->
+    <color name="colorDominant">#FFFFFF</color>
+</resources>

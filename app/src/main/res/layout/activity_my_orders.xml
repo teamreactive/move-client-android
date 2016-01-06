@@ -1,0 +1,28 @@
+<android.support.v4.widget.DrawerLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/drawer_layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorPrimary"
+    tools:context="com.example.wilsond.moveapplication.SelectPlaceActivity">
+
+    <RelativeLayout android:id="@+id/main_content"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <include layout="@layout/generic_header_layout"
+            android:id="@+id/header_layout"/>
+
+
+
+
+    </RelativeLayout>
+
+    <include layout="@layout/lateral_menu_layout"
+        android:id="@+id/lateral_menu"
+        android:layout_width="300dp"
+        android:layout_height="match_parent"
+        android:layout_gravity="left"/>
+
+</android.support.v4.widget.DrawerLayout>
+

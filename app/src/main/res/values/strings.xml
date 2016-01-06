@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Move</string>
+
+    <string name="activity_search_item_title">¿Que vas a pedir?</string>
+    <string name="activity_select_place_title">¿Donde lo recibes?</string>
+    <string name="activity_select_store_title">Selecciona la mejor oferta!</string>
+    <string name="activity_my_orders">Tus Pedidos Pendientes</string>
+
+
+</resources>
